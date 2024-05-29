@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ LADLI STRING SESSION BOT ❤️</b></h1>
 <p align="center">
   <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
 </p>
@@ -38,7 +38,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/BRANDEDSTRINGSESSION_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/Gundayrules)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
