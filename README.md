@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ LADLI STRING SESSION BOT ❤️</b></h1>
 <p align="center">
   <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
 </p>
@@ -12,7 +12,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
  
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
+[![LADLI](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
   [![Forks](https://img.shields.io/github/forks/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
@@ -38,7 +38,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/BRANDEDSTRINGSESSION_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/Gundayrules)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -57,7 +57,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
-- » [Shivang](https://github.com/ShivangKakkar)
+- » [LADLI BOT](https://github.com/WCGKING)
+- » [LADLI](https://github.com/ShivangKakkar)
 - » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
